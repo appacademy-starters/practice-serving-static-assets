@@ -1,1 +1,0 @@
-# practice-serving-static-assets
